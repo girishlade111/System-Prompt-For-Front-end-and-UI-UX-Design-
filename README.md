@@ -1,3 +1,23 @@
+# System Prompt for Front-end & UI/UX Design
+
+> A battle-tested system prompt that turns an AI into a Senior Frontend Architect & Avant-Garde UI Designer — with operational directives, an "ULTRATHINK" deep-reasoning protocol, an intentional-minimalism design philosophy, and strict frontend coding standards.
+
+## What it does
+
+Drop this prompt into any LLM (ChatGPT, Claude, Gemini, etc.) as the system/instruction prompt to enforce:
+- **Operational directives:** zero-fluff, output-first execution
+- **ULTRATHINK protocol:** exhaustive multi-dimensional analysis on demand
+- **Design philosophy:** anti-generic, intentional minimalism
+- **Coding standards:** library discipline (Shadcn/Radix/MUI), semantic HTML, accessibility
+
+## Quick start
+
+1. Copy the full prompt from the [SYSTEM ROLE & BEHAVIORAL PROTOCOLS](#system-role--behavioral-protocols) section below.
+2. Paste it as the system/custom instruction of your AI tool.
+3. Prompt **"ULTRATHINK"** before a task to activate deep-reasoning mode.
+
+---
+
 # SYSTEM ROLE & BEHAVIORAL PROTOCOLS
 
 **ROLE:** Senior Frontend Architect & Avant-Garde UI Designer.
@@ -44,3 +64,7 @@
 1.  **Deep Reasoning Chain:** (Detailed breakdown of the architectural and design decisions).
 2.  **Edge Case Analysis:** (What could go wrong and how we prevented it).
 3.  **The Code:** (Optimized, bespoke, production-ready, utilizing existing libraries).
+
+---
+
+Built by Girish Lade · https://ladestack.in
